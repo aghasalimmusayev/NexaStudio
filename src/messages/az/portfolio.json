@@ -1,0 +1,30 @@
+{
+  "title": "Portfelimiz",
+  "subtitle": "Seçilmiş layihələrimizə nəzər salın",
+  "items": {
+    "fintech": {
+      "title": "FinTech Dashboard",
+      "category": "UI/UX Dizayn",
+      "description": "Maliyyə məlumatlarını vizuallaşdıran interaktiv idarəetmə paneli",
+      "tags": ["Figma", "React", "TypeScript"]
+    },
+    "ecommerce": {
+      "title": "E-Commerce Platform",
+      "category": "Veb Hazırlama",
+      "description": "Tam funksional onlayn mağaza həlli",
+      "tags": ["Next.js", "Tailwind", "Stripe"]
+    },
+    "healthcare": {
+      "title": "HealthCare App",
+      "category": "Mobil Tətbiq",
+      "description": "Həkim-xəstə əlaqəsini asanlaşdıran mobil platforma",
+      "tags": ["React Native", "Node.js", "MongoDB"]
+    },
+    "branding": {
+      "title": "Startup Branding",
+      "category": "Brend İdentifikasiyası",
+      "description": "Texnologiya startapı üçün tam brend paketi",
+      "tags": ["Logo", "Figma", "Brand Kit"]
+    }
+  }
+}

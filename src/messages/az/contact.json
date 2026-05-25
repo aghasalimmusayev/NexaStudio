@@ -1,0 +1,30 @@
+{
+    "title": "Əlaqə",
+    "subtitle": "Layihəniz haqqında danışaq",
+    "form": {
+        "name": "Adınız",
+        "name_placeholder": "Əli Həsənov",
+        "email": "E-poçt",
+        "email_placeholder": "ali@example.com",
+        "message": "Mesajınız",
+        "message_placeholder": "Layihəniz haqqında məlumat verin...",
+        "submit": "Göndər"
+    },
+    "sidebar": {
+        "address_label": "Ünvan",
+        "address": "Bakı, Azərbaycan",
+        "email_label": "E-poçt",
+        "email": "hello@nexastudio.az",
+        "phone_label": "Telefon",
+        "phone": "+994 50 123 45 67",
+        "hours_label": "İş saatları",
+        "hours": "B.e. – Cümə, 09:00 – 18:00"
+    },
+    "validation": {
+        "name_required": "Ad mütləqdir",
+        "email_required": "E-poçt mütləqdir",
+        "email_invalid": "Düzgün e-poçt daxil edin",
+        "message_required": "Mesaj mütləqdir",
+        "message_min": "Minimum 10 simvol olmalıdır"
+    }
+}

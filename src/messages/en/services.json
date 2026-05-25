@@ -1,0 +1,36 @@
+{
+  "title": "Our Services",
+  "subtitle": "Everything you need to grow your brand",
+  "items": {
+    "uiux": {
+      "title": "UI/UX Design",
+      "description": "Stay ahead of competitors with user-centered interface designs",
+      "tags": ["Figma", "Prototyping", "Research"]
+    },
+    "web": {
+      "title": "Web Development",
+      "description": "Modern, fast and fully responsive web solutions",
+      "tags": ["React", "Next.js", "TypeScript"]
+    },
+    "mobile": {
+      "title": "Mobile Application",
+      "description": "High-performance applications for iOS and Android",
+      "tags": ["React Native", "Flutter", "Swift"]
+    },
+    "brand": {
+      "title": "Brand Identity",
+      "description": "We create a strong and memorable brand image",
+      "tags": ["Logo", "Style Guide", "Brand Kit"]
+    },
+    "motion": {
+      "title": "Motion Design",
+      "description": "Capture attention with vivid animations and visual effects",
+      "tags": ["After Effects", "Framer", "Lottie"]
+    },
+    "seo": {
+      "title": "SEO & Performance",
+      "description": "Rank higher in search engines and gain more customers",
+      "tags": ["SEO", "Core Web Vitals", "Analytics"]
+    }
+  }
+}

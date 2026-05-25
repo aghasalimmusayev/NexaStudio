@@ -1,0 +1,30 @@
+{
+  "title": "Our Portfolio",
+  "subtitle": "Take a look at our selected projects",
+  "items": {
+    "fintech": {
+      "title": "FinTech Dashboard",
+      "category": "UI/UX Design",
+      "description": "An interactive management panel that visualizes financial data",
+      "tags": ["Figma", "React", "TypeScript"]
+    },
+    "ecommerce": {
+      "title": "E-Commerce Platform",
+      "category": "Web Development",
+      "description": "A fully functional online store solution",
+      "tags": ["Next.js", "Tailwind", "Stripe"]
+    },
+    "healthcare": {
+      "title": "HealthCare App",
+      "category": "Mobile Application",
+      "description": "A mobile platform that simplifies doctor-patient communication",
+      "tags": ["React Native", "Node.js", "MongoDB"]
+    },
+    "branding": {
+      "title": "Startup Branding",
+      "category": "Brand Identity",
+      "description": "A complete brand package for a technology startup",
+      "tags": ["Logo", "Figma", "Brand Kit"]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Наше портфолио",
+  "subtitle": "Взгляните на наши избранные проекты",
+  "items": {
+    "fintech": {
+      "title": "FinTech Dashboard",
+      "category": "UI/UX Дизайн",
+      "description": "Интерактивная панель управления для визуализации финансовых данных",
+      "tags": ["Figma", "React", "TypeScript"]
+    },
+    "ecommerce": {
+      "title": "E-Commerce Platform",
+      "category": "Веб-разработка",
+      "description": "Полнофункциональное решение для интернет-магазина",
+      "tags": ["Next.js", "Tailwind", "Stripe"]
+    },
+    "healthcare": {
+      "title": "HealthCare App",
+      "category": "Мобильное приложение",
+      "description": "Мобильная платформа для упрощения общения врача и пациента",
+      "tags": ["React Native", "Node.js", "MongoDB"]
+    },
+    "branding": {
+      "title": "Startup Branding",
+      "category": "Фирменный стиль",
+      "description": "Полный брендинг-пакет для технологического стартапа",
+      "tags": ["Logo", "Figma", "Brand Kit"]
+    }
+  }
+}

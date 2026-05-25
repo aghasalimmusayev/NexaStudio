@@ -1,0 +1,30 @@
+{
+    "title": "Contact",
+    "subtitle": "Let's talk about your project",
+    "form": {
+        "name": "Your Name",
+        "name_placeholder": "John Smith",
+        "email": "Email",
+        "email_placeholder": "john@example.com",
+        "message": "Your Message",
+        "message_placeholder": "Tell us about your project...",
+        "submit": "Send"
+    },
+    "sidebar": {
+        "address_label": "Address",
+        "address": "Baku, Azerbaijan",
+        "email_label": "Email",
+        "email": "hello@nexastudio.az",
+        "phone_label": "Phone",
+        "phone": "+994 50 123 45 67",
+        "hours_label": "Working Hours",
+        "hours": "Mon – Fri, 09:00 – 18:00"
+    },
+    "validation": {
+        "name_required": "Name is required",
+        "email_required": "Email is required",
+        "email_invalid": "Enter a valid email",
+        "message_required": "Message is required",
+        "message_min": "Minimum 10 characters required"
+    }
+}

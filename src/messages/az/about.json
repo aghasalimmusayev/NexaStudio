@@ -1,0 +1,22 @@
+{
+  "title": "Biz Kimik",
+  "mission": "NexaStudio, şirkətlərin rəqəmsal dünyada güclü varlıq yaratmasına kömək edən yaradıcı dizayn agentliyidir. Biz hər layihəyə sənətkarlıq və innovasiya ilə yanaşırıq.",
+  "values": {
+    "creativity": {
+      "title": "Yaradıcılıq",
+      "description": "Hər problemə unikal və yaradıcı həll yolu tapırıq"
+    },
+    "quality": {
+      "title": "Keyfiyyət",
+      "description": "Təfərrüatlara diqqət yetirərək mükəmməl nəticələr çatdırırıq"
+    },
+    "transparency": {
+      "title": "Şəffaflıq",
+      "description": "Müştərilərimizlə açıq və dürüst ünsiyyət qururuq"
+    },
+    "innovation": {
+      "title": "İnnovasiya",
+      "description": "Ən son texnologiyalar və trendləri daim izləyirik"
+    }
+  }
+}

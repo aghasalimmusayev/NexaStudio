@@ -1,0 +1,36 @@
+{
+  "title": "Наши услуги",
+  "subtitle": "Всё необходимое для развития вашего бренда",
+  "items": {
+    "uiux": {
+      "title": "UI/UX Дизайн",
+      "description": "Опережайте конкурентов с ориентированными на пользователя интерфейсами",
+      "tags": ["Figma", "Prototyping", "Research"]
+    },
+    "web": {
+      "title": "Веб-разработка",
+      "description": "Современные, быстрые и полностью адаптивные веб-решения",
+      "tags": ["React", "Next.js", "TypeScript"]
+    },
+    "mobile": {
+      "title": "Мобильное приложение",
+      "description": "Высокопроизводительные приложения для iOS и Android",
+      "tags": ["React Native", "Flutter", "Swift"]
+    },
+    "brand": {
+      "title": "Фирменный стиль",
+      "description": "Создаём сильный и запоминающийся образ бренда",
+      "tags": ["Logo", "Style Guide", "Brand Kit"]
+    },
+    "motion": {
+      "title": "Моушн-дизайн",
+      "description": "Привлекайте внимание яркой анимацией и визуальными эффектами",
+      "tags": ["After Effects", "Framer", "Lottie"]
+    },
+    "seo": {
+      "title": "SEO & Производительность",
+      "description": "Занимайте высокие позиции в поиске и привлекайте больше клиентов",
+      "tags": ["SEO", "Core Web Vitals", "Analytics"]
+    }
+  }
+}

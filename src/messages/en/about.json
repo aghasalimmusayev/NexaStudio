@@ -1,0 +1,22 @@
+{
+  "title": "Who We Are",
+  "mission": "NexaStudio is a creative design agency that helps businesses establish a powerful presence in the digital world. We approach every project with craftsmanship and innovation.",
+  "values": {
+    "creativity": {
+      "title": "Creativity",
+      "description": "We find unique and creative solutions to every problem"
+    },
+    "quality": {
+      "title": "Quality",
+      "description": "We deliver exceptional results with attention to every detail"
+    },
+    "transparency": {
+      "title": "Transparency",
+      "description": "We build open and honest communication with our clients"
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "We constantly follow the latest technologies and trends"
+    }
+  }
+}

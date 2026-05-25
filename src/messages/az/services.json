@@ -1,0 +1,36 @@
+{
+  "title": "Xidmətlərimiz",
+  "subtitle": "Brendinizi inkişaf etdirmək üçün lazım olan hər şey",
+  "items": {
+    "uiux": {
+      "title": "UI/UX Dizayn",
+      "description": "İstifadəçi mərkəzli interfeys dizaynları ilə rəqiblərinizdən öndə olun",
+      "tags": ["Figma", "Prototyping", "Research"]
+    },
+    "web": {
+      "title": "Veb Sayt Hazırlanması",
+      "description": "Müasir, sürətli və tam responsive veb həlləri",
+      "tags": ["React", "Next.js", "TypeScript"]
+    },
+    "mobile": {
+      "title": "Mobil Tətbiq",
+      "description": "iOS və Android üçün yüksək performanslı tətbiqlər",
+      "tags": ["React Native", "Flutter", "Swift"]
+    },
+    "brand": {
+      "title": "Brend İdentifikasiyası",
+      "description": "Güclü və yadda qalan brend obrazı yaradırıq",
+      "tags": ["Logo", "Style Guide", "Brand Kit"]
+    },
+    "motion": {
+      "title": "Motion Design",
+      "description": "Canlı animasiyalar və vizual effektlərlə diqqət çəkin",
+      "tags": ["After Effects", "Framer", "Lottie"]
+    },
+    "seo": {
+      "title": "SEO & Performans",
+      "description": "Axtarış sistemlərində üst sıralara çıxın, daha çox müştəri qazanın",
+      "tags": ["SEO", "Core Web Vitals", "Analytics"]
+    }
+  }
+}

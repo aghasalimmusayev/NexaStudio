@@ -1,0 +1,11 @@
+{
+  "headline": "Exceptional Design in the Digital World",
+  "subtitle": "NexaStudio — a creative design agency that takes your brand into the future",
+  "cta_primary": "Start a Project",
+  "cta_secondary": "View Our Work",
+  "stats": {
+    "projects": { "value": "150+", "label": "Completed Projects" },
+    "experience": { "value": "8+", "label": "Years of Experience" },
+    "satisfaction": { "value": "98%", "label": "Client Satisfaction" }
+  }
+}
