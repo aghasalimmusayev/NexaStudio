@@ -16,6 +16,7 @@
 # next.js
 /.next/
 /out/
+.front technical task.docx
 
 # production
 /build
