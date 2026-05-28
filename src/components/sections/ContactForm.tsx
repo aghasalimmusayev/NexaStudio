@@ -2,14 +2,21 @@
 import { useTranslations } from "next-intl"
 import Button from "../ui/Button"
 import { useForm } from "react-hook-form"
+import { toast } from "sonner"
 
 export default function ContactForm() {
     const t = useTranslations('contact')
-    const { register, handleSubmit, formState: { errors } } = useForm()
+    const { register, handleSubmit, reset, formState: { errors } } = useForm()
+
+    function onSubmit(data: unknown) {
+        console.log(data)
+        toast.success(t('notification.success'))
+        reset()
+    }
 
     return (
         <form
-            onSubmit={handleSubmit((data) => console.log(data))}
+            onSubmit={handleSubmit(onSubmit)}
             className="flex flex-col gap-4">
             <input
                 type="text"

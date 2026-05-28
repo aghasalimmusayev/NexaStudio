@@ -20,6 +20,10 @@
         "hours_label": "İş saatları",
         "hours": "B.e. – Cümə, 09:00 – 18:00"
     },
+    "notification": {
+        "success": "Mesajınız uğurla göndərildi!",
+        "error": "Xəta baş verdi. Yenidən cəhd edin."
+    },
     "validation": {
         "name_required": "Ad mütləqdir",
         "email_required": "E-poçt mütləqdir",

@@ -20,6 +20,10 @@
         "hours_label": "Working Hours",
         "hours": "Mon – Fri, 09:00 – 18:00"
     },
+    "notification": {
+        "success": "Your message was sent successfully!",
+        "error": "Something went wrong. Please try again."
+    },
     "validation": {
         "name_required": "Name is required",
         "email_required": "Email is required",
