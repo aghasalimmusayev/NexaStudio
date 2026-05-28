@@ -12,7 +12,7 @@ export default function MobileMenu({ open, onClose }: MobileMenuProps) {
 
     return (
         <div className={clsx(
-            'md:hidden fixed left-0 right-0 top-16 z-40 transition-all duration-400 overflow-hidden',
+            'md:hidden fixed left-0 right-0 top-16 z-40 transition-all duration-600 overflow-hidden',
             open ? 'max-h-64 opacity-100' : 'max-h-0 opacity-0 pointer-events-none'
         )}>
             <nav className="flex flex-col gap-4 py-4 px-6 bg-black/60">
